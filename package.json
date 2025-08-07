@@ -1,0 +1,16 @@
+{
+  "name": "blaze-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "A WhatsApp Bot using @whiskeysockets/baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Blaze",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.0.0"
+  }
+}
